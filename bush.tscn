@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://imo7c0g06ur0"]
+
+[ext_resource type="PackedScene" uid="uid://yrhxrta66qu7" path="res://bush.glb" id="1_l8fjx"]
+
+[node name="bush" instance=ExtResource("1_l8fjx")]

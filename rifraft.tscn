@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://csw5vkcaxmn14"]
+
+[ext_resource type="PackedScene" uid="uid://b7yepfpt6r836" path="res://m/rifraft.glb" id="1_fswsu"]
+
+[node name="rifraft" instance=ExtResource("1_fswsu")]

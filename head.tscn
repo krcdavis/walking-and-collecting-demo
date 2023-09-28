@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://c3762mjxdgnhw"]
+
+[ext_resource type="Script" path="res://head.gd" id="1_owuve"]
+[ext_resource type="PackedScene" uid="uid://cthhxoxfaiy8c" path="res://youbal_2.tscn" id="3_owr6a"]
+
+[node name="head" type="Node3D"]
+script = ExtResource("1_owuve")
+
+[node name="you" parent="." instance=ExtResource("3_owr6a")]

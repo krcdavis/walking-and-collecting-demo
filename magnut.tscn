@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://tk1b238i1oih"]
+
+[ext_resource type="PackedScene" uid="uid://7r2687m5c7ak" path="res://m/magnut.glb" id="1_mrwf3"]
+
+[node name="magnut" instance=ExtResource("1_mrwf3")]

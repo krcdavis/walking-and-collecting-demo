@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://dtpttlyjxm7vt"]
+
+[ext_resource type="PackedScene" uid="uid://by68avkcp5uk1" path="res://m/lileaf.glb" id="1_uvyfr"]
+
+[node name="lileaf" instance=ExtResource("1_uvyfr")]

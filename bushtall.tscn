@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpysc75kqxkdm"]
+
+[ext_resource type="PackedScene" uid="uid://ps8ys07tgctp" path="res://bushtall.glb" id="1_wje8n"]
+
+[node name="bushtall" instance=ExtResource("1_wje8n")]

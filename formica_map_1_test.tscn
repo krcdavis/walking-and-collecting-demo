@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://ct2afrubulpfl"]
+
+[ext_resource type="PackedScene" uid="uid://s5x02bat1srj" path="res://formica map 1 test.glb" id="1_umpp5"]
+
+[node name="formica map 1 test" instance=ExtResource("1_umpp5")]
